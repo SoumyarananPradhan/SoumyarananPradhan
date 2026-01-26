@@ -1,6 +1,6 @@
 # Hi, I'm Soumyaranjan Pradhan 👋
 
-Software developer in progress working with Python, Django, web development, and machine learning. Completed MCA, built hands-on projects that solve real world problems.
+Software developer in progress working with Python, Django, web development, and machine learning | MCA Graduate | Built hands-on projects that solve real world problems.
 
 ## GitHub Stats
 
