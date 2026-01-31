@@ -6,8 +6,6 @@ Software developer in progress working with Python, Django, web development, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoumyarananPradhan&theme=radical)
-
 ## What I Work With
 
 **Backend & Frameworks**
