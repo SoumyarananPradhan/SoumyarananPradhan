@@ -4,17 +4,10 @@ Software developer in progress working with Python, Django, web development, and
 
 ## GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=radical"
-  alt="GitHub Stats"
-  referrerpolicy="no-referrer"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical"
-  alt="Top Languages"
-  referrerpolicy="no-referrer"
-/>
+![Repos](https://img.shields.io/badge/Repositories-16-blue)
+![Stars](https://img.shields.io/badge/Stars-7-yellow)
+![Followers](https://img.shields.io/github/followers/SoumyarananPradhan?label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyarananPradhan&color=blueviolet)
 
 ## What I Work With
 
