@@ -4,7 +4,10 @@ Software developer in progress working with Python, Django, web development, and
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical)
+![Soumyaranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ## What I Work With
 
