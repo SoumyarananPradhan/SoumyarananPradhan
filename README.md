@@ -4,10 +4,9 @@ Software developer in progress working with Python, Django, web development, and
 
 ## GitHub Stats
 
-![Soumyaranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=radical&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical&cache_seconds=1800)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 
 ## What I Work With
 
