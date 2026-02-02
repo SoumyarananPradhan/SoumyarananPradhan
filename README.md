@@ -26,20 +26,55 @@ Software developer in progress working with Python, Django, web development, and
 
 ## Featured Projects
 
-### [Portfolio Website](https://soumya2025.pythonanywhere.com/)
-Personal portfolio showcasing my work and skills.
+## 🚀 Featured Projects
 
-### [QR Code Generator and Reader](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader)
-Python application for generating and decoding QR codes.
+### 🎬 VellaVision — Video Sharing Platform
+A YouTube-style video sharing platform built with Django, focusing on scalable backend design and cloud-based media handling.
 
-### [Book Review System](https://github.com/SoumyarananPradhan/Book-Review-System)
-Django-based platform for submitting and browsing book reviews.
+- User authentication & video ownership
+- Video upload & streaming using Cloudinary
+- Views tracking and clean project structure
+- Deployed on Railway
 
-### [Course Platform](https://github.com/SoumyarananPradhan/Course-Platform)
-Learning management system built with Django.
+🔗 Live: https://vellavision-production-b04d.up.railway.app/  
+🔗 Repository: https://github.com/SoumyarananPradhan/VellaVision
 
-### [Task Manager](https://github.com/SoumyarananPradhan/django-task-manager)
-Django application for managing tasks and projects.
+---
+
+### 🌐 Portfolio Website
+My personal portfolio website showcasing my skills, projects, and resume.
+
+- Responsive UI with dark mode
+- Resume download support
+- Deployed live on PythonAnywhere
+
+🔗 Live: https://soumya2025.pythonanywhere.com  
+🔗 Repository: https://github.com/SoumyarananPradhan/My_Portfolio_Website
+
+---
+
+### 📚 Book Review System
+A Django-based web application that allows users to submit, browse, and manage book reviews.
+
+- User authentication
+- CRUD operations
+- Rating system
+- Clean Django MVC structure
+
+🔗 Repository: https://github.com/SoumyarananPradhan/Book-Review-System
+
+---
+
+### 🔲 QR Code Generator & Reader
+A Python utility application for generating and decoding QR codes.
+
+- QR generation from text or URLs
+- QR decoding using image processing
+- Simple and efficient Python scripting
+
+🔗 Repository: https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader
+
+---
 
 ## Recent Activity
 
