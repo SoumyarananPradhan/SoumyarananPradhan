@@ -48,7 +48,7 @@ My personal portfolio website showcasing my skills, projects, and resume.
 - Resume download support
 - Deployed live on PythonAnywhere
 
-🔗 Live: https://soumya2025.pythonanywhere.com  
+🔗 Live: https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/  
 🔗 Repository: https://github.com/SoumyarananPradhan/My_Portfolio_Website
 
 ---
