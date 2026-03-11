@@ -1,81 +1,159 @@
-<h1 align="center">Hi there, I'm Soumyaranjan Pradhan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/waving_hand.gif" width="30px"/></h1>
+<div align="center">
 
-<h3 align="center">🚀 Python Full Stack Developer | AI/ML Enthusiast | MCA Graduate</h3>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soumyaranjan%20Pradhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Graduate&descAlignY=55&descSize=16"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoumyarananPradhan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SoumyarananPradhan&label=👁️ Profile Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1RRWHYmE6MUA0hYC9JBzBTAobqBtXb1Mc/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/📄 Resume-4CAF50?style=for-the-badge&logoColor=white"/></a>
 </p>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+web%2C+one+commit+at+a+time+🚀;Python+%7C+Django+%7C+React+%7C+AI%2FML;Open+to+Full-Time+Opportunities+💼;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 I’m currently building robust web applications and exploring microservices architectures.
-- 🌱 I’m continually leveling up my skills in **Machine Learning**, **Algorithms**, and **System Design**.
-- 💼 **Experience:** Completed an AI/ML internship at the Central Tool Room & Training Centre (CTTC).
-- 🎯 **Current Focus:** Actively seeking full-time software engineering roles and participating in technical hiring drives.
-- ⚡ **Beyond Coding:** I enjoy watching anime, learning Japanese, and reading up on personal development!
+```python
+class SoumyaranjanPradhan:
 
----
+    def __init__(self):
+        self.name       = "Soumyaranjan Pradhan"
+        self.role       = "Python Full Stack Developer"
+        self.location   = "Hyderabad, India 🇮🇳"
+        self.education  = "MCA Graduate"
+        self.languages  = ["Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["Django", "Flask", "React", "Flutter"]
+        self.databases  = ["PostgreSQL", "MongoDB", "SQLite"]
+        self.interests  = ["AI/ML", "Web Dev", "Anime 🎌", "Japanese 🇯🇵"]
+        self.available  = True  # 👈 Open to opportunities!
 
-### 🛠️ Tech Stack & Tools
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+me = SoumyaranjanPradhan()
+me.say_hi()
+```
 
 ---
 
-### ⭐ Featured Pinned Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🤖 **[AI Interview Copilot](https://github.com/SoumyarananPradhan/AI-Interview-Copilot)** | An AI-powered assistant designed to provide real-time guidance and feedback during technical interviews. | `Python`, `AI/ML`, `React` |
-| 🛍️ **[GenZWay E-commerce](https://github.com/SoumyarananPradhan/genzway-ecommerce)** | A modern full-stack e-commerce platform with real-time cart, JWT auth, and secure checkout. | `Django REST`, `React`, `PostgreSQL` |
-| 🎬 **[VellaVision](https://github.com/SoumyarananPradhan/VellaVision)** | A scalable, YouTube-style video-sharing platform featuring secure media uploads and views tracking. | `Django`, `Python`, `Cloudinary` |
-| 💼 **[FresherJob Portal](https://github.com/SoumyarananPradhan/FresherJob-Portal)** | A dedicated full-stack job portal connecting entry-level candidates with employers, featuring robust search filters. | `Python`, `Full Stack` |
-| 🇯🇵 **[JLPT Companion](https://github.com/SoumyarananPradhan/JLPT-Companion)** | A full-stack language learning app for Japanese students featuring interactive flashcards and user tracking. | `Python`, `React`, `Full Stack` |
-| ⛩️ **[SearchAnim](https://github.com/SoumyarananPradhan/anime-search-app)** | A vibe-coded live anime search engine pulling real-time data from the Jikan API. | `React`, `Tailwind CSS`, `JS` |
-| 📈 **[Sales-Forecaster](https://github.com/SoumyarananPradhan/Sales-Forecaster)** | A full-stack sales analytics platform for trend forecasting and data visualization. | `Python`, `Full Stack` |
-| 🌐 **[My Portfolio](https://github.com/SoumyarananPradhan/Portfolio)** | My official portfolio website showcasing projects with smooth animations and responsive design. | `JavaScript`, `CSS/HTML` |
-| 🔲 **[QR-Code-Utility](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader)** | A lightweight utility application for generating and decoding QR codes using image processing. | `Python` |
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷️ Project | 📝 Description | ⚙️ Stack |
+|:---|:---|:---|
+| 🤖 **[AI Interview Copilot](https://github.com/SoumyarananPradhan/AI-Interview-Copilot)** | Real-time AI guidance & feedback during technical interviews | `Python` `AI/ML` `React` |
+| 🛍️ **[GenZWay E-Commerce](https://github.com/SoumyarananPradhan/genzway-ecommerce)** | Full-stack platform with JWT auth, real-time cart & secure checkout | `Django REST` `React` `PostgreSQL` |
+| 🎬 **[VellaVision](https://github.com/SoumyarananPradhan/VellaVision)** | YouTube-style video platform with secure media uploads & view tracking | `Django` `Cloudinary` |
+| 💼 **[FresherJob Portal](https://github.com/SoumyarananPradhan/FresherJob-Portal)** | Job portal connecting entry-level candidates with employers | `Python` `Full Stack` |
+| 🇯🇵 **[JLPT Companion](https://github.com/SoumyarananPradhan/JLPT-Companion)** | Japanese learning app with interactive flashcards & user tracking | `Python` `React` |
+| 📈 **[Sales Forecaster](https://github.com/SoumyarananPradhan/Sales-Forecaster)** | Sales analytics platform for trend forecasting & data visualization | `Python` `Full Stack` |
+| ⛩️ **[SearchAnim](https://github.com/SoumyarananPradhan/anime-search-app)** | Live anime search engine pulling real-time data from Jikan API | `React` `Tailwind` `JS` |
+| 🔲 **[QR Code Utility](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader)** | Lightweight QR code generator & decoder using image processing | `Python` |
+
+</div>
 
 ---
 
-### 🚀 Other Notable Work
+## ⚡ Other Cool Stuff I've Built
 
-* ⚡ **Blinkit Clone:** Engineered a high-performance delivery application using a Python microservices architecture on the backend and a Flutter frontend.
-* 💹 **Algorithmic Trading Bot:** Created an automated trading script for the Binance Futures Testnet, handling live API data and algorithmic execution.
-* 📔 **My Journal:** Built a secure, full-stack journaling application to track daily thoughts and personal growth metrics.
+> 🚚 **Blinkit Clone** — Microservices Python backend + Flutter frontend delivery app  
+> 🤖 **Algo Trading Bot** — Automated script for Binance Futures Testnet with live API execution  
+> 📔 **My Journal** — Secure full-stack journaling app for personal growth tracking
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyarananPradhan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+
+</div>
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyarananPradhan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SoumyarananPradhan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
 
 ---
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyarananPradhan&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit My Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9" target="_blank">
+  <img src="https://img.shields.io/badge/Code360 Profile-4CAF50?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💡 *"Code is like humor. When you have to explain it, it's bad."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
