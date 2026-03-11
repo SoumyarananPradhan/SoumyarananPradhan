@@ -11,7 +11,7 @@
   <a href="https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9" target="_blank"><img src="https://img.shields.io/badge/Code360-1A1A2E?style=for-the-badge&logoColor=white"/></a>
 </p>
 
-<!-- TYPING ANIMATION - wider canvas, shorter lines, URL-safe chars only -->
+<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+the+web+one+commit+at+a+time;Python+%7C+Django+%7C+React+%7C+AI%2FML;Actively+seeking+Full-Time+Roles;Let%27s+build+something+amazing!" alt="Typing SVG" />
 
 </div>
@@ -80,24 +80,18 @@ me.say_hi()
 
 | 🏷️ Project | 📝 Description | ⚙️ Stack |
 |:---|:---|:---|
-| 🤖 **[AI Interview Copilot](https://github.com/SoumyarananPradhan/AI-Interview-Copilot)** | Real-time AI guidance & feedback during technical interviews | `Python` `AI/ML` `React` |
 | 🛍️ **[GenZWay E-Commerce](https://github.com/SoumyarananPradhan/genzway-ecommerce)** | Full-stack platform with JWT auth, real-time cart & secure checkout | `Django REST` `React` `PostgreSQL` |
 | 🎬 **[VellaVision](https://github.com/SoumyarananPradhan/VellaVision)** | YouTube-style video platform with secure media uploads & view tracking | `Django` `Cloudinary` |
-| 💼 **[FresherJob Portal](https://github.com/SoumyarananPradhan/FresherJob-Portal)** | Job portal connecting entry-level candidates with employers | `Python` `Full Stack` |
 | 🇯🇵 **[JLPT Companion](https://github.com/SoumyarananPradhan/JLPT-Companion)** | Japanese learning app with interactive flashcards & user tracking | `Python` `React` |
 | 📈 **[Sales Forecaster](https://github.com/SoumyarananPradhan/Sales-Forecaster)** | Sales analytics platform for trend forecasting & data visualization | `Python` `Full Stack` |
+| 📚 **[Course Platform](https://github.com/SoumyarananPradhan/Course-Platform)** | Full-featured online course management and delivery platform | `Python` `Django` |
+| 📖 **[Book Review System](https://github.com/SoumyarananPradhan/Book-Review-System)** | Community-driven book review and rating web application | `Python` `Django` |
 | ⛩️ **[SearchAnim](https://github.com/SoumyarananPradhan/anime-search-app)** | Live anime search engine pulling real-time data from Jikan API | `React` `Tailwind` `JS` |
+| ✅ **[Django Task Manager](https://github.com/SoumyarananPradhan/django-task-manager)** | Clean task management app with full CRUD & user authentication | `Django` `Python` |
 | 🔲 **[QR Code Utility](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader)** | Lightweight QR code generator & decoder using image processing | `Python` |
+| 🌐 **[Portfolio Website](https://github.com/SoumyarananPradhan/My_Portfolio_Website)** | Personal portfolio showcasing projects with smooth animations | `HTML` `CSS` `JS` |
 
 </div>
-
----
-
-## ⚡ Other Cool Stuff I've Built
-
-> 🚚 **Blinkit Clone** — Microservices Python backend + Flutter frontend delivery app  
-> 🤖 **Algo Trading Bot** — Automated script for Binance Futures Testnet with live API execution  
-> 📔 **My Journal** — Secure full-stack journaling app for personal growth tracking  
 
 ---
 
@@ -105,10 +99,11 @@ me.say_hi()
 
 <div align="center">
 
+<!-- Stats card - vercel hosted, very reliable -->
 <img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&count_private=true" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=SoumyarananPradhan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" />
+<!-- Top langs - same host as stats card, reliable -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="38%" />
 
 </div>
 
