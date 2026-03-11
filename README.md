@@ -3,18 +3,25 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soumyaranjan%20Pradhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Graduate&descAlignY=55&descSize=16"/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SoumyarananPradhan&label=👁️ Profile Views&color=0e75b6&style=for-the-badge" />
-  <a href="https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1RRWHYmE6MUA0hYC9JBzBTAobqBtXb1Mc/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/📄 Resume-4CAF50?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1RRWHYmE6MUA0hYC9JBzBTAobqBtXb1Mc/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/📄%20Resume-4CAF50?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9" target="_blank"><img src="https://img.shields.io/badge/Code360-1A1A2E?style=for-the-badge&logoColor=white"/></a>
 </p>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+web%2C+one+commit+at+a+time+🚀;Python+%7C+Django+%7C+React+%7C+AI%2FML;Open+to+Full-Time+Opportunities+💼;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION - most reliable source -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Python+%7C+Django+%7C+React+%7C+AI%2FML;Open+to+Full-Time+Opportunities+%F0%9F%92%BC;Let's+build+something+awesome+together!" alt="Typing SVG" />
+
+<br/>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -64,7 +71,7 @@ me.say_hi()
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Tools**
+**Databases & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -99,7 +106,7 @@ me.say_hi()
 
 > 🚚 **Blinkit Clone** — Microservices Python backend + Flutter frontend delivery app  
 > 🤖 **Algo Trading Bot** — Automated script for Binance Futures Testnet with live API execution  
-> 📔 **My Journal** — Secure full-stack journaling app for personal growth tracking
+> 📔 **My Journal** — Secure full-stack journaling app for personal growth tracking  
 
 ---
 
@@ -107,19 +114,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyarananPradhan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&count_private=true" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=SoumyarananPradhan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoumyarananPradhan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -137,15 +136,15 @@ me.say_hi()
 <div align="center">
 
 <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit My Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9" target="_blank">
-  <img src="https://img.shields.io/badge/Code360 Profile-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code360%20Profile-4CAF50?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
