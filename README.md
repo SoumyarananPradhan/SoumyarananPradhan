@@ -43,6 +43,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🤖 **[AI Interview Copilot](https://github.com/SoumyarananPradhan/AI-Interview-Copilot)** | An AI-powered assistant designed to provide real-time guidance and feedback during technical interviews. | `Python`, `AI/ML`, `React` |
 | 🛍️ **[GenZWay E-commerce](https://github.com/SoumyarananPradhan/genzway-ecommerce)** | A modern full-stack e-commerce platform with real-time cart, JWT auth, and secure checkout. | `Django REST`, `React`, `PostgreSQL` |
 | 🎬 **[VellaVision](https://github.com/SoumyarananPradhan/VellaVision)** | A scalable, YouTube-style video-sharing platform featuring secure media uploads and views tracking. | `Django`, `Python`, `Cloudinary` |
 | 💼 **[FresherJob Portal](https://github.com/SoumyarananPradhan/FresherJob-Portal)** | A dedicated full-stack job portal connecting entry-level candidates with employers, featuring robust search filters. | `Python`, `Full Stack` |
