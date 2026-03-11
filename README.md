@@ -1,8 +1,6 @@
-<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/4f355724-df62-48b1-9b71-c3cc805bda92" />
 <div align="center">
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/04f2e251-baf9-47c9-95f8-7df07ca5eebd" />
 
-<!-- Upload banner.png to your repo root and this will display automatically -->
-<img src="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/main/banner.png" width="100%" alt="Soumyaranjan Pradhan"/>
 
 <br/>
 
