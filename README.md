@@ -1,3 +1,4 @@
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/4f355724-df62-48b1-9b71-c3cc805bda92" />
 <div align="center">
 
 <!-- Upload banner.png to your repo root and this will display automatically -->
