@@ -1,60 +1,80 @@
-# Hi, I'm Soumyaranjan Pradhan 👋
+<h1 align="center">Hi there, I'm Soumyaranjan Pradhan! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"/></h1>
 
-### 🚀 Python Full Stack Developer | MCA Graduate
+<h3 align="center">🚀 Python Full Stack Developer | AI/ML Enthusiast | MCA Graduate</h3>
 
-I am a passionate Software Developer based in Hyderabad with a strong foundation in building scalable web applications, microservices, and exploring Machine Learning. As an MCA graduate actively seeking full-time roles, I enjoy solving complex problems and building user-centric products from the backend architecture to the frontend experience.
-
----
-
-### 💻 Technical Arsenal
-
-* **Backend:** Python, Django, Django REST Framework (DRF), Flask
-* **Frontend:** React (Vite), JavaScript, Tailwind CSS, HTML/CSS, Flutter
-* **Databases:** PostgreSQL, MySQL, MongoDB
-* **AI/ML:** Machine Learning fundamentals, Data Analysis
-* **Tools & Architecture:** Microservices architectures, Git, GitHub, Docker, Railway, PythonAnywhere
-
----
-
-### 🛠️ Featured Projects & Creations
-
-#### 🛍️ [GenZWay](https://github.com/SoumyarananPradhan/genzway-ecommerce)
-A modern, full-stack e-commerce platform built with **Django REST Framework** and **React**. Features secure JWT authentication, a real-time shopping cart, and a seamless checkout process.
-
-#### ⚡ Blinkit Clone
-A high-performance delivery application engineered with a **Python microservices architecture** on the backend and a cross-platform **Flutter** frontend to ensure rapid scalability.
-
-#### ⛩️ [SearchAnim](https://github.com/SoumyarananPradhan/anime-search-app) & JLPT Companion
-* **SearchAnim:** A live anime search engine built with **React** and Tailwind CSS, utilizing the Jikan API for real-time, vibe-coded discovery.
-* **JLPT Companion:** A full-stack language learning application designed for Japanese learners, featuring interactive flashcards and secure user authentication.
-
-#### 📈 Algorithmic Trading Bot
-An automated trading script developed for the **Binance Futures Testnet**, demonstrating practical API integration, data handling, and algorithmic logic execution.
-
-#### 🎬 [VellaVision](https://github.com/SoumyarananPradhan/VellaVision)
-A scalable, YouTube-style video-sharing platform developed with **Django**, integrating Cloudinary for media uploads, streaming, and view tracking.
-
-#### 📔 My Journal
-A secure and interactive full-stack journaling application designed to help users track their daily thoughts and personal development.
-
----
-
-### 🎓 Experience & Milestones
-* **AI/ML Intern:** Gained hands-on experience with machine learning concepts and models during an internship at the Central Tool Room & Training Centre (CTTC).
-* **Continuous Learner:** Actively refining my data structures, algorithms, and communication skills to tackle competitive hiring assessments and technical interviews.
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Soumyaranjan Pradhan" height="30" /></a>
-<a href="https://soumya2025.pythonanywhere.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SoumyarananPradhan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://soumya2025.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💻 About Me
 
-![Soumyaranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=radical)
+- 🔭 I’m currently building robust web applications and exploring microservices architectures.
+- 🌱 I’m continually leveling up my skills in **Machine Learning**, **Algorithms**, and **System Design**.
+- 💼 **Experience:** Completed an AI/ML internship at the Central Tool Room & Training Centre (CTTC).
+- 🎯 **Current Focus:** Actively seeking full-time software engineering roles and participating in technical hiring drives.
+- ⚡ **Beyond Coding:** I enjoy watching anime, learning Japanese, and reading up on personal development!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### ⭐ Featured Pinned Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛍️ **[GenZWay E-commerce](https://github.com/SoumyarananPradhan/genzway-ecommerce)** | A modern full-stack e-commerce platform with real-time cart, JWT auth, and secure checkout. | `Django REST`, `React`, `PostgreSQL` |
+| 🎬 **[VellaVision](https://github.com/SoumyarananPradhan/VellaVision)** | A scalable, YouTube-style video-sharing platform featuring secure media uploads and views tracking. | `Django`, `Python`, `Cloudinary` |
+| 💼 **[FresherJob Portal](https://github.com/SoumyarananPradhan/FresherJob-Portal)** | A dedicated full-stack job portal connecting entry-level candidates with employers, featuring robust search filters. | `Python`, `Full Stack` |
+| 🇯🇵 **[JLPT Companion](https://github.com/SoumyarananPradhan/JLPT-Companion)** | A full-stack language learning app for Japanese students featuring interactive flashcards and user tracking. | `Python`, `React`, `Full Stack` |
+| ⛩️ **[SearchAnim](https://github.com/SoumyarananPradhan/anime-search-app)** | A vibe-coded live anime search engine pulling real-time data from the Jikan API. | `React`, `Tailwind CSS`, `JS` |
+| 📈 **[Sales-Forecaster](https://github.com/SoumyarananPradhan/Sales-Forecaster)** | A full-stack sales analytics platform for trend forecasting and data visualization. | `Python`, `Full Stack` |
+| 🌐 **[My Portfolio](https://github.com/SoumyarananPradhan/Portfolio)** | My official portfolio website showcasing projects with smooth animations and responsive design. | `JavaScript`, `CSS/HTML` |
+| 🔲 **[QR-Code-Utility](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader)** | A lightweight utility application for generating and decoding QR codes using image processing. | `Python` |
+
+---
+
+### 🚀 Other Notable Work
+
+* ⚡ **Blinkit Clone:** Engineered a high-performance delivery application using a Python microservices architecture on the backend and a Flutter frontend.
+* 💹 **Algorithmic Trading Bot:** Created an automated trading script for the Binance Futures Testnet, handling live API data and algorithmic execution.
+* 📔 **My Journal:** Built a secure, full-stack journaling application to track daily thoughts and personal growth metrics.
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyarananPradhan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
