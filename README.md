@@ -11,7 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SoumyarananPradhan&color=00ff41&style=flat-square&label=VISITORS)&nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-SoumyarananPradhan-00ff41?style=flat-square&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/SoumyarananPradhan)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live-00ff41?style=flat-square&logo=firefox&logoColor=00ff41&labelColor=0d1117)](https://soumya2025.pythonanywhere.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live-00ff41?style=flat-square&logo=firefox&logoColor=00ff41&labelColor=0d1117)](https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/)
+[![Resume](https://img.shields.io/badge/RESUME-View-00ff41?style=flat-square&logo=googledrive&logoColor=00ff41&labelColor=0d1117)](https://drive.google.com/file/d/1bMA7NCvrPLywFZwGs5bcEcEauAnU5_cU/view?usp=drive_link)
 
 </div>
 
