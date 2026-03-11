@@ -11,17 +11,8 @@
   <a href="https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9" target="_blank"><img src="https://img.shields.io/badge/Code360-1A1A2E?style=for-the-badge&logoColor=white"/></a>
 </p>
 
-<!-- TYPING ANIMATION - most reliable source -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Python+%7C+Django+%7C+React+%7C+AI%2FML;Open+to+Full-Time+Opportunities+%F0%9F%92%BC;Let's+build+something+awesome+together!" alt="Typing SVG" />
-
-<br/>
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SoumyarananPradhan/SoumyarananPradhan/output/github-snake-dark.svg" />
-</picture>
+<!-- TYPING ANIMATION - wider canvas, shorter lines, URL-safe chars only -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+the+web+one+commit+at+a+time;Python+%7C+Django+%7C+React+%7C+AI%2FML;Actively+seeking+Full-Time+Roles;Let%27s+build+something+amazing!" alt="Typing SVG" />
 
 </div>
 
