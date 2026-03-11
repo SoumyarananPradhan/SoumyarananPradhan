@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Soumyaranjan Pradhan! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm Soumyaranjan Pradhan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/waving_hand.gif" width="30px"/></h1>
 
 <h3 align="center">🚀 Python Full Stack Developer | AI/ML Enthusiast | MCA Graduate</h3>
 
