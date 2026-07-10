@@ -1,220 +1,291 @@
 <div align="center">
 <img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/04f2e251-baf9-47c9-95f8-7df07ca5eebd" />
 
+
 <br/>
 
-### UNIT: SOUMYARANJAN PRADHAN
-<sub>PILOT DESIGNATION // FULL-STACK DEVELOPER</sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%5BSYS%5D+Booting+developer+environment...+%E2%9C%93;%5BSYS%5D+Loading+Python%2C+Django%2C+React%2C+ML...+%E2%9C%93)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=FF2E4D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=45&lines=%3E+BOOTING+PILOT_UI...+COMPLETE+%E2%9C%93;%3E+STACK%3A+PYTHON+%2F%2F+DJANGO+%2F%2F+REACT+%2F%2F+POSTGRES+%E2%9C%93)](https://git.io/typing-svg)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SoumyarananPradhan&color=FF2E4D&style=for-the-badge&label=VISITORS)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF2E4D?style=for-the-badge&logo=vercel&logoColor=white)](https://soumyaranjan-pradhan-v3.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoumyarananPradhan)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF2E4D)](https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/)
-[![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=FF2E4D)](https://drive.google.com/file/d/1bMA7NCvrPLywFZwGs5bcEcEauAnU5_cU/view?usp=drive_link)
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyarananPradhan&color=00ff41&style=flat-square&label=VISITORS)&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-SoumyarananPradhan-00ff41?style=flat-square&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/SoumyarananPradhan)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live-00ff41?style=flat-square&logo=firefox&logoColor=00ff41&labelColor=0d1117)](https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/)
+[![Resume](https://img.shields.io/badge/RESUME-View-00ff41?style=flat-square&logo=googledrive&logoColor=00ff41&labelColor=0d1117)](https://drive.google.com/file/d/1bMA7NCvrPLywFZwGs5bcEcEauAnU5_cU/view?usp=drive_link)
 
 </div>
 
-<br/>
-
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-### `001` PILOT DOSSIER
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-```yaml
-callsign:     Soumya
-role:         Associate Software Developer @ Clever Core Technologies
-origin:       Hyderabad, India
-training:     MCA — KIIT University (8.09 CGPA)
-core_stack:   Python / Django / React / PostgreSQL
-directive:    "Interfaces that look incredible
-               and work flawlessly. No exceptions."
-current_op:   Frontend-backend integration on an
-               ed-tech platform, plus a manga /
-               mecha-inspired personal portfolio.
-```
-
-</td>
-<td width="40%" valign="top">
+---
 
 ```
-   ┌───────────────┐
-   │  STATUS       │
-   │  ▓▓▓▓▓▓▓▓▓▓   │
-   │  ONLINE  100% │
-   └───────────────┘
-   ┌───────────────┐
-   │  MODE         │
-   │  SHIPPING     │
-   └───────────────┘
-   ┌───────────────┐
-   │  UPTIME       │
-   │  ALWAYS       │
-   └───────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@soumya:~$ ./identify.sh                                        ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-### `002` LOADOUT
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+class SoumyaranjanPradhan:
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><b>BACKEND</b></td>
-<td width="75%">
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/DRF-000000?style=flat-square&logo=django&logoColor=FF2E4D"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>FRONTEND</b></td>
-<td>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=FF2E4D"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>DATA</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=FF2E4D"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>TOOLING</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF2E4D"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>SCOUTING</b></td>
-<td>
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=tensorflow&logoColor=FF2E4D"/>
-<img src="https://img.shields.io/badge/System_Design-000000?style=flat-square&logo=archlinux&logoColor=FF2E4D"/>
-</td>
-</tr>
-</table>
+    CODENAME   = "SOUMYA"
+    STATUS     = "ONLINE"
+    CLEARANCE  = "MCA STUDENT // SOFTWARE DEVELOPER IN PROGRESS"
+    LOCATION   = "Hyderabad, India [17.3850 N, 78.4867 E]"
 
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-### `003` DEPLOYMENT RECORDS &nbsp;<sub>★ 17 starred</sub>
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+    STACK = {
+        "backend"   : ["Python", "Django", "Django REST Framework"],
+        "frontend"  : ["JavaScript", "React", "Tailwind CSS", "HTML5", "CSS3"],
+        "database"  : ["PostgreSQL", "MySQL", "SQLite"],
+        "tools"     : ["Git", "VS Code", "Postman"],
+        "exploring" : ["Machine Learning", "System Design", "Microservices"],
+    }
 
-<details open>
-<summary><b>MSN-A &nbsp;// AI &amp; MACHINE LEARNING</b></summary>
-<br/>
+    PHILOSOPHY = "Build. Break. Learn. Repeat. Ship."
 
-| Repo | Stack | Brief |
-|---|---|---|
-| [`ai_interview_copilot`](https://github.com/SoumyarananPradhan/ai_interview_copilot) | JavaScript | AI-powered interview prep tool — your copilot for technical interviews |
-| [`FaceRecognitionSystem`](https://github.com/SoumyarananPradhan/FaceRecognitionSystem) | Python | Face authentication system, deployable on smart devices |
-| [`Sales-Forecaster`](https://github.com/SoumyarananPradhan/Sales-Forecaster) | Python | Full-stack sales analytics — raw data into actionable insight |
+    def __repr__(self):
+        return f"<Developer name={self.CODENAME} status={self.STATUS}>"
 
-</details>
+agent = SoumyaranjanPradhan()
+print(agent)
+# >> <Developer name=SOUMYA status=ONLINE>
+```
 
-<details open>
-<summary><b>MSN-B &nbsp;// FULL-STACK WEB</b></summary>
-<br/>
+---
 
-| Repo | Stack | Brief |
-|---|---|---|
-| [`genzway-ecommerce`](https://github.com/SoumyarananPradhan/genzway-ecommerce) | DRF + React + PostgreSQL | Modern e-commerce — JWT auth, real-time cart, secure checkout |
-| [`VellaVision`](https://github.com/SoumyarananPradhan/VellaVision) | Python | Full-stack video-sharing platform, secure auth, media uploads |
-| [`freshers_job_portal`](https://github.com/SoumyarananPradhan/freshers_job_portal) | JavaScript | Job portal built for freshers, first job hunt made simpler |
-| [`Portfolio`](https://github.com/SoumyarananPradhan/Portfolio) | JavaScript | Official portfolio — mecha boot-log preloader, fully responsive |
-
-</details>
-
-<details open>
-<summary><b>MSN-C &nbsp;// PYTHON &amp; DJANGO</b></summary>
-<br/>
-
-| Repo | Stack | Brief |
-|---|---|---|
-| [`Book-Review-System`](https://github.com/SoumyarananPradhan/Book-Review-System) | Python | Django app for discovering, reviewing, and rating books |
-| [`django-task-manager`](https://github.com/SoumyarananPradhan/django-task-manager) | Python | Full CRUD task manager |
-| [`daily-study-planner-and-tracker`](https://github.com/SoumyarananPradhan/daily-study-planner-and-tracker) | Python | Study planner built for students, by a student |
-| [`QR-Code-Generator-and-Reader`](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader) | Python | Generate and decode QR codes |
-| `Django-Blog-App` 🔒 | Python | Django blog with auth, CRUD posts, and comments *(private)* |
-
-</details>
-
-<details open>
-<summary><b>MSN-D &nbsp;// JAVASCRIPT &amp; REACT</b></summary>
-<br/>
-
-| Repo | Stack | Brief |
-|---|---|---|
-| [`anime-search-app`](https://github.com/SoumyarananPradhan/anime-search-app) | React + Tailwind | Anime search engine powered by the Jikan API |
-| [`To-Do-App`](https://github.com/SoumyarananPradhan/To-Do-App) | React | Persistent to-do app with filtering and local storage |
-| [`jlpt-companion`](https://github.com/SoumyarananPradhan/jlpt-companion) | JavaScript | JLPT flashcards with a custom SM-2 spaced-repetition algorithm |
-
-</details>
-
-<details open>
-<summary><b>MSN-E &nbsp;// SYSTEMS &amp; FINANCE</b></summary>
-<br/>
-
-| Repo | Stack | Brief |
-|---|---|---|
-| [`blinkit-microservices-clone`](https://github.com/SoumyarananPradhan/blinkit-microservices-clone) | C++ | Microservices architecture clone of Blinkit |
-| [`binance-futures-trading-bot`](https://github.com/SoumyarananPradhan/binance-futures-trading-bot) | Python | Automated crypto trading bot for Binance futures |
-
-</details>
-
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-### `004` COMBAT DATA
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@soumya:~$ ls -la ~/tech-stack/                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF2E4D&icon_color=FF2E4D&text_color=FFFFFF&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF2E4D&text_color=FFFFFF" width="34%"/>
-
-<img src="https://streak-stats.demolab.com/?user=SoumyarananPradhan&hide_border=true&background=0A0A0A&stroke=FF2E4D&ring=FF2E4D&fire=FF2E4D&currStreakLabel=FF2E4D&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%"/>
+![Python](https://img.shields.io/badge/Python-►-00ff41?style=flat-square&logo=python&logoColor=00ff41&labelColor=0d1117)
+![Django](https://img.shields.io/badge/Django-►-00ff41?style=flat-square&logo=django&logoColor=00ff41&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-►-00ff41?style=flat-square&logo=javascript&logoColor=00ff41&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-►-00ff41?style=flat-square&logo=react&logoColor=00ff41&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-►-00ff41?style=flat-square&logo=tailwindcss&logoColor=00ff41&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-►-00ff41?style=flat-square&logo=postgresql&logoColor=00ff41&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-►-00ff41?style=flat-square&logo=html5&logoColor=00ff41&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-►-00ff41?style=flat-square&logo=css3&logoColor=00ff41&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-►-00ff41?style=flat-square&logo=git&logoColor=00ff41&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-►-00ff41?style=flat-square&logo=cplusplus&logoColor=00ff41&labelColor=0d1117)
 
 </div>
 
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-### `005` COMMS CHANNEL
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+---
 
-<div align="center">
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@soumya:~$ cat /var/log/starred_repos.log                       ║
+║  [★] 17 entries found. Displaying all...                             ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-| Channel | Type |
-|:---|:---:|
-| [soumyaranjan-pradhan-v3.vercel.app](https://soumyaranjan-pradhan-v3.vercel.app/) | `PORTFOLIO` |
-| [linkedin.com/in/soumyaranjan-pradhan](https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/) | `LINKEDIN` |
-| [github.com/SoumyarananPradhan](https://github.com/SoumyarananPradhan) | `GITHUB` |
-| [Code360 Profile](https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9) | `DSA` |
-| [soumyaranjanaman54@gmail.com](mailto:soumyaranjanaman54@gmail.com) | `MAIL` |
-| [Resume](https://drive.google.com/file/d/1RRWHYmE6MUA0hYC9JBzBTAobqBtXb1Mc/view?usp=drive_link) | `PDF` |
-
-</div>
+<details open>
+<summary><code>▶ [AI / ML CLUSTER]</code></summary>
 
 <br/>
 
+**`[★01]`** &nbsp; [`ai_interview_copilot`](https://github.com/SoumyarananPradhan/ai_interview_copilot) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41)
+```
+> AI-powered interview prep tool. Your copilot for crushing technical interviews.
+> Updated: 3 days ago
+```
+
+**`[★05]`** &nbsp; [`FaceRecognitionSystem`](https://github.com/SoumyarananPradhan/FaceRecognitionSystem) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Face authentication system deployable on smart devices. Applied ML for security.
+> Updated: Jul 6, 2025
+```
+
+**`[★04]`** &nbsp; [`Sales-Forecaster`](https://github.com/SoumyarananPradhan/Sales-Forecaster) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Full stack sales analytics platform. Raw data → actionable insights.
+> Updated: last month
+```
+
+</details>
+
+---
+
+<details open>
+<summary><code>▶ [FULL STACK WEB CLUSTER]</code></summary>
+
+<br/>
+
+**`[★02]`** &nbsp; [`genzway-ecommerce`](https://github.com/SoumyarananPradhan/genzway-ecommerce) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41) ![DRF](https://img.shields.io/badge/Django_REST-0d1117?style=flat-square&logo=django&logoColor=00ff41) ![PG](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff41)
+```
+> Modern e-commerce platform. JWT auth, real-time cart, secure checkout.
+> Stack: Django REST Framework + React (Vite) + PostgreSQL
+> Updated: last month
+```
+
+**`[★03]`** &nbsp; [`VellaVision`](https://github.com/SoumyarananPradhan/VellaVision) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Full-stack video-sharing platform. Secure auth, media uploads, CSRF protection.
+> Clean URL routing, reusable Django apps, modern responsive UI.
+> Updated: Feb 1
+```
+
+**`[★09]`** &nbsp; [`freshers_job_portal`](https://github.com/SoumyarananPradhan/freshers_job_portal) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41)
+```
+> Job portal built for freshers. Making the first job hunt less daunting.
+> Updated: 3 weeks ago
+```
+
+**`[★08]`** &nbsp; [`Portfolio`](https://github.com/SoumyarananPradhan/Portfolio) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41)
+```
+> Official portfolio — smooth animations, project showcases, fully responsive.
+> Updated: 2 weeks ago
+```
+
+</details>
+
+---
+
+<details open>
+<summary><code>▶ [PYTHON / DJANGO CLUSTER]</code></summary>
+
+<br/>
+
+**`[★13]`** &nbsp; [`Book-Review-System`](https://github.com/SoumyarananPradhan/Book-Review-System) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Django web app for discovering, reviewing, and rating books. Real-world MVC.
+> Updated: Feb 1
+```
+
+**`[★15]`** &nbsp; [`django-task-manager`](https://github.com/SoumyarananPradhan/django-task-manager) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Full CRUD task manager powered by Django. Organize life, one task at a time.
+> Updated: Jan 8
+```
+
+**`[★16]`** &nbsp; [`daily-study-planner-and-tracker`](https://github.com/SoumyarananPradhan/daily-study-planner-and-tracker) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Study planner built for students, by a student who knows the grind.
+> Updated: Feb 1
+```
+
+**`[★14]`** &nbsp; [`QR-Code-Generator-and-Reader`](https://github.com/SoumyarananPradhan/QR-Code-Generator-and-Reader) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Generate and decode QR codes. Physical <-> digital, bridged with Python.
+> Updated: Feb 1
+```
+
+**`[★17]`** &nbsp; `Django-Blog-App` &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41) &nbsp; `[PRIVATE 🔒]`
+```
+> Django blog with auth, CRUD posts, and comments. The classic, done right.
+> Updated: Nov 26, 2025
+```
+
+</details>
+
+---
+
+<details open>
+<summary><code>▶ [JAVASCRIPT / REACT CLUSTER]</code></summary>
+
+<br/>
+
+**`[★11]`** &nbsp; [`anime-search-app`](https://github.com/SoumyarananPradhan/anime-search-app) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41)
+```
+> Vibe-coded anime search engine. React + Tailwind CSS + Jikan API.
+> Updated: Feb 5
+```
+
+**`[★12]`** &nbsp; [`To-Do-App`](https://github.com/SoumyarananPradhan/To-Do-App) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41)
+```
+> Persistent React To-Do app with filtering and local storage.
+> Updated: Feb 5
+```
+
+**`[★10]`** &nbsp; [`jlpt-companion`](https://github.com/SoumyarananPradhan/jlpt-companion) &nbsp; ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41)
+```
+> Full-stack JLPT flashcard app with custom SM-2 spaced repetition algorithm.
+> Updated: 2 weeks ago
+```
+
+</details>
+
+---
+
+<details open>
+<summary><code>▶ [SYSTEMS / FINANCE CLUSTER]</code></summary>
+
+<br/>
+
+**`[★07]`** &nbsp; [`blinkit-microservices-clone`](https://github.com/SoumyarananPradhan/blinkit-microservices-clone) &nbsp; ![CPP](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff41)
+```
+> Microservices architecture clone of Blinkit. Distributed systems at the metal.
+> Updated: 3 weeks ago
+```
+
+**`[★06]`** &nbsp; [`binance-futures-trading-bot`](https://github.com/SoumyarananPradhan/binance-futures-trading-bot) &nbsp; ![PY](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+```
+> Automated crypto trading bot for Binance futures. Finance meets algorithms.
+> Updated: 3 weeks ago
+```
+
+</details>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@soumya:~$ git log --oneline --graph --all                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33&count_private=true)](https://github.com/SoumyarananPradhan)
 
-**17 units starred &nbsp;·&nbsp; shipping daily &nbsp;·&nbsp; always leveling up**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33)](https://github.com/SoumyarananPradhan)
 
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SoumyarananPradhan&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&currStreakNum=00ff41&sideNums=00ff41)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@soumya:~$ ./connect.sh --all                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+| `ENDPOINT` | `PROTOCOL` | `STATUS` |
+|:---:|:---:|:---:|
+| [Portfolio](https://soumyaranjan-pradhan-v3.vercel.app/) | `HTTPS` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+| [LinkedIn](https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/) | `SOCIAL` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+| [GitHub](https://github.com/SoumyarananPradhan) | `GIT` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+| [Code360](https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9) | `DSA` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+| [soumyaranjanaman54@gmail.com](mailto:soumyaranjanaman54@gmail.com) | `SMTP` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+| [Resume](https://drive.google.com/file/d/1RRWHYmE6MUA0hYC9JBzBTAobqBtXb1Mc/view?usp=drive_link) | `PDF` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   [SYS] 17 starred repos  //  Building daily  //  Always learning   ║
+║                                                                      ║
+║   "The quieter you become, the more you are able to hear."           ║
+║                         — the terminal                               ║
+║                                                                      ║
+║   root@soumya:~$ _                                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
