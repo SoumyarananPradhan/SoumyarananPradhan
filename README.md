@@ -262,7 +262,7 @@ print(agent)
 
 | `ENDPOINT` | `PROTOCOL` | `STATUS` |
 |:---:|:---:|:---:|
-| [Portfolio](https://portfolio-chi-ebon-qldcyiqwd9.vercel.app/) | `HTTPS` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
+| [Portfolio](https://soumyaranjan-pradhan-v3.vercel.app/) | `HTTPS` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
 | [LinkedIn](https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/) | `SOCIAL` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
 | [GitHub](https://github.com/SoumyarananPradhan) | `GIT` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
 | [Code360](https://www.naukri.com/code360/profile/f4191dd1-ca47-4fef-869b-a102bd7aa9a9) | `DSA` | ![ONLINE](https://img.shields.io/badge/●-ONLINE-00ff41?style=flat-square&labelColor=0d1117) |
