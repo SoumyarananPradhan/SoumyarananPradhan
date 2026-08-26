@@ -1,164 +1,305 @@
 <div align="center">
 
-```
-       ╔═══════════════════════════════════════════════╗
-       ║   SYSTEM BOOT ... OK                           ║
-       ║   UNIT: S.PRADHAN                              ║
-       ║   はじめまして — Hello, World.                  ║
-       ╚═══════════════════════════════════════════════╝
-```
+<a href="https://github.com/SoumyarananPradhan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7DA,25:FADADD,50:C8E6C9,75:B8C8E8,100:6B4F3A&height=220&section=header&text=Soumyaranjan%20Pradhan&fontSize=42&fontColor=202124&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Creative%20Technologist&descAlignY=60&descSize=18" alt="Japanese-inspired profile header" />
+</a>
 
-# 荒木 ｜ Soumyaranjan Pradhan
+<p>
+  <strong>こんにちは、ようこそ。</strong><br/>
+  <sub>Welcome to my little corner of the internet.</sub>
+</p>
 
-**Full-Stack Developer · AI/ML Explorer · Creative Technologist**
+<p>
+  <em>静かに考え、丁寧につくり、世界へ届ける。</em><br/>
+  <sub>Think quietly. Build carefully. Ship boldly.</sub>
+</p>
 
-*つくるもの、こわすもの、まなぶもの — Build. Break. Learn. Repeat. Ship.*
+<p>
+  <a href="https://soumyaranjan-pradhan-v3.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-B14B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-2F4F6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SoumyarananPradhan">
+    <img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br>
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+<p>
+  🌸 <strong>Build</strong> &nbsp;·&nbsp;
+  🍵 <strong>Learn</strong> &nbsp;·&nbsp;
+  ⛩️ <strong>Experiment</strong> &nbsp;·&nbsp;
+  🎐 <strong>Create</strong>
+</p>
 
 </div>
 
-<br>
+---
 
-## 序 · Introduction
+## 🌸 はじめまして · Hello
 
-> I'm an **Associate Software Engineer** and MCA graduate focused on building practical,
-> well-designed software. My work sits at the intersection of **full-stack engineering**,
-> **modern frontend development**, **backend systems**, and **applied AI/ML**.
+I'm **Soumyaranjan**, an **Associate Software Engineer** and MCA graduate who enjoys turning ideas into useful, polished digital products.
+
+My work lives where **full-stack engineering, modern frontend development, backend systems, and applied AI/ML** meet. I like taking a rough idea, shaping the experience, designing the architecture, and bringing it to life with code.
+
+I’m currently exploring **AI-powered applications, LLM workflows, system design, modern Python backends, React experiences, and creative web interactions**.
+
+> ### `つくる → こわす → 学ぶ → 改善する`
 >
-> I enjoy taking an idea from a rough concept to a working product —
-> thoughtful UX, clean architecture, maintainable code.
->
-> Currently deepening my work in **Python · Django · FastAPI · React · Machine Learning ·
-> System Design · AI-powered applications.**
+> **Build → Break → Learn → Improve**
 
-<br>
+---
 
-## 構築するもの · What I Build
+## ⛩️ 私のスタック · My Stack
 
 <div align="center">
 
-| 領域 domain | フォーカス focus |
-|:--|:--|
-| **Frontend** | React, JavaScript, HTML5, CSS3, Tailwind CSS, responsive interfaces |
-| **Backend** | Python, Django, Django REST Framework, FastAPI, REST APIs |
-| **Data** | PostgreSQL, MySQL, SQLite |
-| **AI / ML** | Machine learning, AI-powered applications, applied experimentation |
-| **Engineering** | Authentication, CRUD systems, API design, reusable architecture, deployment |
-| **Creative Web** | Motion, interaction design, portfolio experiences, visual storytelling |
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" alt="Frontend stack"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&perline=4" alt="Backend stack"/>
+
+### 🗄️ Data & Engineering
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,postman&perline=7" alt="Engineering stack"/>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="AI and ML stack"/>
 
 </div>
 
-<br>
+---
 
-## 選ばれた作品 · Selected Work
+## 🎏 つくるもの · What I Build
 
-<br>
+| 🎎 Area                 | 🌿 What I care about                                                      |
+| ----------------------- | ------------------------------------------------------------------------- |
+| **Frontend**            | Responsive interfaces, interaction, accessibility, visual hierarchy       |
+| **Backend**             | Python, Django, FastAPI, REST APIs, authentication                        |
+| **Data**                | PostgreSQL, MySQL, SQLite, practical data workflows                       |
+| **AI / ML**             | Applied machine learning, AI-assisted products, experimentation           |
+| **Product Engineering** | Architecture, reusable components, maintainability, deployment            |
+| **Creative Web**        | Motion, storytelling, immersive layouts, photography-inspired experiences |
 
-### 01 ｜ GenzWay — Full-Stack E-Commerce
-A modern e-commerce platform built with **Django REST Framework**, **React (Vite)**, and
-**PostgreSQL** — featuring JWT authentication, cart flows, and secure checkout.
-**→** [View repository](#)
+---
 
-### 02 ｜ VellaVision — Video Sharing Platform
-A full-stack video-sharing platform focused on secure authentication, media uploads,
-CSRF protection, reusable Django applications, and responsive UI.
-**→** [View repository](#)
-
-### 03 ｜ Sales Forecaster — Analytics Platform
-A full-stack sales analytics project designed to turn raw data into useful business
-insights and forecasting workflows.
-**→** [View repository](#)
-
-### 04 ｜ Anime Search — React Experience
-A lightweight anime search experience built with React, Tailwind CSS, and the Jikan API —
-a simple interface driven by an external API workflow.
-**→** [View repository](#)
-
-### 05 ｜ Portfolio — Personal Web Experience
-My personal portfolio focused on smooth animation, project storytelling, responsive
-layouts, and creative frontend presentation.
-**→** [View repository](#)
-
-<br>
-
-## 技術 · Technologies
+## 🐉 選ばれた作品 · Selected Work
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=py)
-![Django](https://skillicons.dev/icons?i=django)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟥 01 · GenzWay
+
+**Full-Stack E-Commerce**
+
+A modern commerce platform built with **Django REST Framework, React (Vite), and PostgreSQL**.
+
+**Highlights**
+
+* JWT authentication
+* Product & cart flows
+* Secure checkout
+* REST-based architecture
+
+<a href="https://github.com/SoumyarananPradhan/genzway-ecommerce">↗ View repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🟦 02 · VellaVision
+
+**Video Sharing Platform**
+
+A full-stack video platform focused on secure authentication, media handling, and reusable Django architecture.
+
+**Highlights**
+
+* Authentication
+* Media uploads
+* CSRF protection
+* Responsive UI
+
+<a href="https://github.com/SoumyarananPradhan/VellaVision">↗ View repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🟩 03 · Sales Forecaster
+
+**Analytics Platform**
+
+A sales analytics project designed to turn raw business data into useful insights and forecasting workflows.
+
+**Focus**
+
+* Data processing
+* Analytics
+* Forecasting
+* Business-oriented insights
+
+<a href="https://github.com/SoumyarananPradhan/Sales-Forecaster">↗ View repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🟨 04 · Anime Search
+
+**React Experience**
+
+A lightweight anime discovery interface powered by **React, Tailwind CSS, and the Jikan API**.
+
+**Focus**
+
+* API integration
+* Search experience
+* Responsive UI
+* Clean interaction
+
+<a href="https://github.com/SoumyarananPradhan/anime-search-app">↗ View repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🟪 05 · Portfolio
+
+**Personal Web Experience**
+
+A creative portfolio exploring animation, storytelling, responsive layouts, and modern frontend presentation.
+
+<a href="https://github.com/SoumyarananPradhan/Portfolio">↗ View repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🩷 06 · Next Chapter
+
+**AI × Web × Design**
+
+Currently experimenting with AI-powered workflows, product ideas, advanced frontend interactions, and better digital experiences.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+---
 
-## 学んでいること · Currently Exploring
+## 🌱 学んでいること · Currently Exploring
 
-- AI/ML applications that solve practical problems
-- LLM-powered developer and productivity tools
-- FastAPI and modern Python backend architecture
-- System design and scalable application patterns
-- Better frontend motion, interaction, and UX
-- Turning side projects into polished, production-minded products
+<div align="center">
 
-<br>
+`AI / ML`   `LLM Applications`   `Agentic AI`   `FastAPI`
 
-## 最近 · Recent Direction
+`System Design`   `Advanced React`   `3D Web`   `Motion Design`
 
-I'm currently moving beyond isolated projects and focusing on products with stronger UX,
-clearer architecture, and real-world usefulness — especially where full-stack engineering
-and AI can work together.
+</div>
 
-I'm also exploring the creative side of the web through portfolio design, animation,
-visual storytelling, and photography.
+I'm especially interested in the space where **software engineering meets intelligence and visual storytelling**.
 
-<br>
+---
 
-## コラボレーション · Let's Build
+## 🍵 最近 · What I'm Working Toward
 
-Interested in collaborating on:
+I’m gradually moving beyond isolated projects and focusing on **products that feel complete** — useful functionality, thoughtful UX, clean architecture, and polished presentation.
 
-- AI-powered products
-- Full-stack web applications
-- Creative frontend experiences
-- Developer tools and automation
-- Open-source projects with practical value
+That means spending more time on:
 
-For collaboration or opportunities, reach me through **LinkedIn** or my **portfolio**.
+* AI-powered developer and productivity tools
+* Modern web applications
+* Better product architecture
+* High-quality frontend interactions
+* Creative portfolio experiences
+* Photography and visual storytelling
 
-<br>
+> **A good product should work well.
+> A great product should also feel good to use.**
+
+---
+
+## 🌊 ものづくり · My Philosophy
+
+<div align="center">
+
+### 「余白もデザインの一部。」
+
+**Whitespace is part of the design.**
+
+<br/>
+
+**Less noise. More intention.**
+
+<br/>
+
+🌸 **Ma** — space & balance
+🍵 **Shibui** — understated elegance
+🎐 **Kanso** — simplicity
+🧵 **Kintsugi** — learning through iteration
+
+</div>
+
+I try to bring these ideas into my work: keep the interface intentional, the code maintainable, and the experience memorable.
+
+---
+
+## 🤝 コラボレーション · Let's Build
+
+I'm interested in collaborating on:
+
+**AI-powered products** · **Full-stack applications** · **Creative frontend experiences** · **Developer tools** · **Open-source projects**
+
+For opportunities, collaboration, or simply saying hello:
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/">LinkedIn</a>
+  ·   <a href="https://soumyaranjan-pradhan-v3.vercel.app/">Portfolio</a>
+  ·   <a href="https://github.com/SoumyarananPradhan">GitHub</a>
+
+</div>
+
+---
+
+## 📊 ひとやすみ · A Small GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&hide_border=true&bg_color=fffaf7&title_color=B14B4B&icon_color=6B8E23&text_color=4A4A4A&ring_color=D4A017&include_all_commits=true" alt="GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&hide_border=true&bg_color=fffaf7&title_color=2F4F6F&text_color=4A4A4A" alt="Top languages"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*余白もデザインの一部です。*
-**Whitespace is part of the design.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4F3A,25:D4A017,50:9CAF88,75:F4B6C2,100:B14B4B&height=120&section=footer" alt="Japanese-inspired footer"/>
 
-*Made with curiosity, code, and a little restraint.*
+### また会いましょう。 · See you again.
 
-```
-       ╔═══════════════════════════════════════════════╗
-       ║   END OF FILE ── また会いましょう               ║
-       ╚═══════════════════════════════════════════════╝
-```
+<sub>Made with curiosity, code, patience, and a little bit of chaos.</sub>
+
+<br/><br/>
+
+<sub>© Soumyaranjan Pradhan</sub>
 
 </div>
+::: ​​
