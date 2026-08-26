@@ -1,113 +1,145 @@
 <div align="center">
 
-<a href="https://github.com/SoumyarananPradhan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7DA,25:FADADD,50:C8E6C9,75:B8C8E8,100:6B4F3A&height=220&section=header&text=Soumyaranjan%20Pradhan&fontSize=42&fontColor=202124&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Creative%20Technologist&descAlignY=60&descSize=18" alt="Japanese-inspired profile header" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FFF7F5,30:F7C9D0,55:D9E8D3,78:C8D2E8,100:4C536B&text=SOUMYARANJAN%20PRADHAN&fontColor=252525&fontSize=42&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20EXPLORER%20%7C%20CREATIVE%20TECHNOLOGIST&descColor=4C536B&descSize=16&descAlignY=61&animation=fadeIn" alt="Japanese-inspired profile banner"/>
 
-<p>
-  <strong>こんにちは、ようこそ。</strong><br/>
-  <sub>Welcome to my little corner of the internet.</sub>
-</p>
+こんにちは、ようこそ。 ✦ Welcome.
 
-<p>
-  <em>静かに考え、丁寧につくり、世界へ届ける。</em><br/>
-  <sub>Think quietly. Build carefully. Ship boldly.</sub>
-</p>
+静かに考え、丁寧につくり、世界へ届ける。
+Think quietly. Build carefully. Ship boldly.
 
 <p>
   <a href="https://soumyaranjan-pradhan-v3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-B14B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-C44536?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-2F4F6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-465A78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SoumyarananPradhan">
-    <img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-262626?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1zKKzyVG_agu3VGoVMXHE4xIWkLYd_awh/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-D2A84A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
 <p>
-  🌸 <strong>Build</strong> &nbsp;·&nbsp;
-  🍵 <strong>Learn</strong> &nbsp;·&nbsp;
-  ⛩️ <strong>Experiment</strong> &nbsp;·&nbsp;
-  🎐 <strong>Create</strong>
+  🌸 Build &nbsp;•&nbsp; 🍵 Learn &nbsp;•&nbsp; ⛩️ Experiment &nbsp;•&nbsp; 🎐 Create
 </p>
 
 </div>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## 🌸 はじめまして · Hello
+🌸 はじめまして · About Me
 
-I'm **Soumyaranjan**, an **Associate Software Engineer** and MCA graduate who enjoys turning ideas into useful, polished digital products.
+I'm Soumyaranjan, an Associate Software Engineer and MCA graduate (2025) based in Hyderabad.
 
-My work lives where **full-stack engineering, modern frontend development, backend systems, and applied AI/ML** meet. I like taking a rough idea, shaping the experience, designing the architecture, and bringing it to life with code.
+I enjoy building practical digital products across frontend, backend, APIs, data, and applied AI/ML. My favorite work sits in the middle of engineering and design: taking an idea, shaping the experience, designing the architecture, and turning it into something people can actually use.
 
-I’m currently exploring **AI-powered applications, LLM workflows, system design, modern Python backends, React experiences, and creative web interactions**.
+Right now, I'm exploring AI-powered applications, LLM workflows, modern Python backends, React experiences, system design, and creative web interactions.
 
-> ### `つくる → こわす → 学ぶ → 改善する`
->
-> **Build → Break → Learn → Improve**
+つくる → 試す → 学ぶ → 改善する
+Build → Experiment → Learn → Improve
 
----
+</td>
 
-## ⛩️ 私のスタック · My Stack
+<td width="42%" valign="top">
+
+🎎 Profile
+
+ROLE
+Associate Software Engineer
+
+EDUCATION
+MCA · 2025
+
+FOCUS
+Full-Stack · AI/ML · Creative Web
+
+BASED IN
+Hyderabad, India
+
+STYLE
+Minimal · Curious · Product-minded
+
+CURRENTLY
+Building + Learning + Exploring
+
+</td>
+</tr>
+</table>
+
+⛩️ 技術 · Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" alt="Frontend stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" alt="Frontend technologies"/>
 
-### ⚙️ Backend
+⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&perline=4" alt="Backend stack"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&perline=4" alt="Backend technologies"/>
 
-### 🗄️ Data & Engineering
+🗄️ Data, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,postman&perline=7" alt="Engineering stack"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,postman&perline=7" alt="Data and engineering tools"/>
 
-### 🤖 AI / ML
+🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="AI and ML stack"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="AI and machine learning tools"/>
 
 </div>
 
----
-
-## 🎏 つくるもの · What I Build
-
-| 🎎 Area                 | 🌿 What I care about                                                      |
-| ----------------------- | ------------------------------------------------------------------------- |
-| **Frontend**            | Responsive interfaces, interaction, accessibility, visual hierarchy       |
-| **Backend**             | Python, Django, FastAPI, REST APIs, authentication                        |
-| **Data**                | PostgreSQL, MySQL, SQLite, practical data workflows                       |
-| **AI / ML**             | Applied machine learning, AI-assisted products, experimentation           |
-| **Product Engineering** | Architecture, reusable components, maintainability, deployment            |
-| **Creative Web**        | Motion, storytelling, immersive layouts, photography-inspired experiences |
-
----
-
-## 🐉 選ばれた作品 · Selected Work
+🎏 つくるもの · What I Build
 
 <div align="center">
+
+🌿 Domain
+
+Focus
+
+Frontend
+
+React, JavaScript, responsive UI, interaction & visual hierarchy
+
+Backend
+
+Python, Django, FastAPI, REST APIs, authentication
+
+Data
+
+PostgreSQL, MySQL, SQLite, analytics workflows
+
+AI / ML
+
+Applied ML, AI-assisted products, practical experimentation
+
+Product Engineering
+
+Architecture, reusable components, maintainability, deployment
+
+Creative Web
+
+Motion, storytelling, immersive layouts & portfolio experiences
+
+</div>
+
+🐉 選ばれた作品 · Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟥 01 · GenzWay
+🟥 GenzWay
 
-**Full-Stack E-Commerce**
+Full-Stack E-Commerce
 
-A modern commerce platform built with **Django REST Framework, React (Vite), and PostgreSQL**.
+Modern e-commerce platform built with Django REST Framework + React (Vite) + PostgreSQL.
 
-**Highlights**
-
-* JWT authentication
-* Product & cart flows
-* Secure checkout
-* REST-based architecture
+JWT Auth Cart Checkout REST API
 
 <a href="https://github.com/SoumyarananPradhan/genzway-ecommerce">↗ View repository</a>
 
@@ -115,18 +147,13 @@ A modern commerce platform built with **Django REST Framework, React (Vite), and
 
 <td width="50%" valign="top">
 
-### 🟦 02 · VellaVision
+🟦 VellaVision
 
-**Video Sharing Platform**
+Video Sharing Platform
 
-A full-stack video platform focused on secure authentication, media handling, and reusable Django architecture.
+Full-stack video-sharing experience with Django, secure authentication, media uploads and a responsive UI.
 
-**Highlights**
-
-* Authentication
-* Media uploads
-* CSRF protection
-* Responsive UI
+Django Authentication Media Security
 
 <a href="https://github.com/SoumyarananPradhan/VellaVision">↗ View repository</a>
 
@@ -136,18 +163,13 @@ A full-stack video platform focused on secure authentication, media handling, an
 <tr>
 <td width="50%" valign="top">
 
-### 🟩 03 · Sales Forecaster
+🟩 Sales Forecaster
 
-**Analytics Platform**
+Analytics Platform
 
-A sales analytics project designed to turn raw business data into useful insights and forecasting workflows.
+A full-stack sales analytics project exploring data-driven insights and forecasting workflows.
 
-**Focus**
-
-* Data processing
-* Analytics
-* Forecasting
-* Business-oriented insights
+Python Analytics Forecasting
 
 <a href="https://github.com/SoumyarananPradhan/Sales-Forecaster">↗ View repository</a>
 
@@ -155,18 +177,13 @@ A sales analytics project designed to turn raw business data into useful insight
 
 <td width="50%" valign="top">
 
-### 🟨 04 · Anime Search
+🟨 Anime Search
 
-**React Experience**
+React × Jikan
 
-A lightweight anime discovery interface powered by **React, Tailwind CSS, and the Jikan API**.
+A lightweight anime search experience built with React, Tailwind CSS and the Jikan API.
 
-**Focus**
-
-* API integration
-* Search experience
-* Responsive UI
-* Clean interaction
+React Tailwind API
 
 <a href="https://github.com/SoumyarananPradhan/anime-search-app">↗ View repository</a>
 
@@ -176,130 +193,128 @@ A lightweight anime discovery interface powered by **React, Tailwind CSS, and th
 <tr>
 <td width="50%" valign="top">
 
-### 🟪 05 · Portfolio
+🟪 Portfolio
 
-**Personal Web Experience**
+Personal Web Experience
 
-A creative portfolio exploring animation, storytelling, responsive layouts, and modern frontend presentation.
+My portfolio focused on smooth animations, project storytelling, responsive layouts and creative frontend presentation.
 
-<a href="https://github.com/SoumyarananPradhan/Portfolio">↗ View repository</a>
+JavaScript Animation UI
+
+<a href="https://github.com/SoumyaranPradhan/Portfolio">↗ View repository</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🩷 06 · Next Chapter
+🩷 QR Code Generator
 
-**AI × Web × Design**
+Python Utility
 
-Currently experimenting with AI-powered workflows, product ideas, advanced frontend interactions, and better digital experiences.
+A practical Python project for generating and reading QR codes.
+
+Python Utility Automation
+
+<a href="https://github.com/SoumyaranPradhan/QR-Code-Generator-and-Reader">↗ View repository</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 🌱 学んでいること · Currently Exploring
+🌱 探索中 · Currently Exploring
 
 <div align="center">
 
-`AI / ML`   `LLM Applications`   `Agentic AI`   `FastAPI`
+AI / ML   LLM Applications   Agentic AI   FastAPI
 
-`System Design`   `Advanced React`   `3D Web`   `Motion Design`
+System Design   Advanced React   3D Web   Motion Design
 
 </div>
 
-I'm especially interested in the space where **software engineering meets intelligence and visual storytelling**.
+The direction
 
----
+I'm moving from projects that work toward products that feel complete:
 
-## 🍵 最近 · What I'm Working Toward
+better UX
 
-I’m gradually moving beyond isolated projects and focusing on **products that feel complete** — useful functionality, thoughtful UX, clean architecture, and polished presentation.
+stronger architecture
 
-That means spending more time on:
+more thoughtful interactions
 
-* AI-powered developer and productivity tools
-* Modern web applications
-* Better product architecture
-* High-quality frontend interactions
-* Creative portfolio experiences
-* Photography and visual storytelling
+real-world usefulness
 
-> **A good product should work well.
-> A great product should also feel good to use.**
+AI that solves an actual problem
 
----
+🍵 最近 · What I'm Building Toward
 
-## 🌊 ものづくり · My Philosophy
+One of my current interests is an AI-powered job application workflow that can understand resumes and job descriptions, identify gaps, and make applications more targeted.
+
+I'm also developing a photography portfolio as a creative playground for visual storytelling, motion, and immersive web design.
+
+The common thread is simple:
+
+Technology should be useful.
+Design should make it memorable.
+
+🌊 和 · Design Philosophy
 
 <div align="center">
 
-### 「余白もデザインの一部。」
+「余白もデザインの一部。」
 
-**Whitespace is part of the design.**
+Whitespace is part of the design.
 
 <br/>
 
-**Less noise. More intention.**
-
-<br/>
-
-🌸 **Ma** — space & balance
-🍵 **Shibui** — understated elegance
-🎐 **Kanso** — simplicity
-🧵 **Kintsugi** — learning through iteration
+🌸 Ma — space, balance, breathing room
+🍵 Shibui — understated elegance
+🎐 Kanso — simplicity without excess
+🧵 Kintsugi — improvement through iteration
 
 </div>
 
-I try to bring these ideas into my work: keep the interface intentional, the code maintainable, and the experience memorable.
+I like interfaces that are calm, intentional and expressive — and codebases that are equally thoughtful underneath.
 
----
-
-## 🤝 コラボレーション · Let's Build
-
-I'm interested in collaborating on:
-
-**AI-powered products** · **Full-stack applications** · **Creative frontend experiences** · **Developer tools** · **Open-source projects**
-
-For opportunities, collaboration, or simply saying hello:
+📈 GitHub · 少しずつ積み重ねる
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/soumyaranjan-pradhan-02b5312ba/">LinkedIn</a>
-  ·   <a href="https://soumyaranjan-pradhan-v3.vercel.app/">Portfolio</a>
-  ·   <a href="https://github.com/SoumyarananPradhan">GitHub</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&hide_border=true&bg_color=FFF9F6&title_color=C44536&icon_color=7A9B76&text_color=4A4A4A&ring_color=D2A84A&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&hide_border=true&bg_color=FFF9F6&title_color=465A78&text_color=4A4A4A" alt="Top languages"/>
 
 </div>
-
----
-
-## 📊 ひとやすみ · A Small GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SoumyarananPradhan&show_icons=true&hide_border=true&bg_color=fffaf7&title_color=B14B4B&icon_color=6B8E23&text_color=4A4A4A&ring_color=D4A017&include_all_commits=true" alt="GitHub stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyarananPradhan&layout=compact&hide_border=true&bg_color=fffaf7&title_color=2F4F6F&text_color=4A4A4A" alt="Top languages"/>
 
 </div>
 
----
+🤝 コラボレーション · Let's Build
+
+I'm open to conversations around:
+
+AI-powered products · Full-stack applications · Creative frontend · Developer tools · Open-source projects
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4F3A,25:D4A017,50:9CAF88,75:F4B6C2,100:B14B4B&height=120&section=footer" alt="Japanese-inspired footer"/>
-
-### また会いましょう。 · See you again.
-
-<sub>Made with curiosity, code, patience, and a little bit of chaos.</sub>
-
-<br/><br/>
-
-<sub>© Soumyaranjan Pradhan</sub>
+<a href="https://www.linkedin.com/in/soumyaran-pradhan-02b5312ba/">LinkedIn</a>
+  ·  
+<a href="https://soumyaranjan-pradhan-v3.vercel.app/">Portfolio</a>
+  ·  
+<a href="https://github.com/SoumyarananPradhan">GitHub</a>
 
 </div>
-::: ​​
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C536B,30:8FA58B,55:D2A84A,78:F2B7C0,100:C44536" alt="Japanese-inspired footer"/>
+
+また会いましょう。 🌸
+
+See you again.
+
+<sub>Made with curiosity, code, patience, and a little chaos.</sub>
+
+</div>
